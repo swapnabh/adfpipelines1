@@ -1,0 +1,123 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "pipelinesmar29"
+		},
+		"AzureDataLakeStorage1_servicePrincipalKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage2_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage3_servicePrincipalKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage4_servicePrincipalKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage5_servicePrincipalKey": {
+			"value": ""
+		},
+		"LS_Strg_Acct_Gen2_servicePrincipalKey": {
+			"value": ""
+		},
+		"LS_Strg_acct_gen_2_servicePrincipalKey": {
+			"value": ""
+		},
+		"expDataset_servicePrincipalKey": {
+			"value": ""
+		},
+		"expLinkedService1_servicePrincipalKey": {
+			"value": ""
+		},
+		"pinkuLinkedService_servicePrincipalKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://tapasstorageacctgen2.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_servicePrincipalId": {
+			"value": "1c5b0f9c-3a58-4b66-8cee-6b17d19f6432"
+		},
+		"AzureDataLakeStorage2_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage3_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage3_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"AzureDataLakeStorage3_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		},
+		"AzureDataLakeStorage4_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage4_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"AzureDataLakeStorage4_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		},
+		"AzureDataLakeStorage5_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"AzureDataLakeStorage5_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"AzureDataLakeStorage5_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		},
+		"LS_Strg_Acct_Gen2_properties_typeProperties_url": {
+			"value": "https://tapasstorageaccountgen2.dfs.core.windows.net"
+		},
+		"LS_Strg_Acct_Gen2_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"LS_Strg_Acct_Gen2_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		},
+		"LS_Strg_acct_gen_2_properties_typeProperties_url": {
+			"value": "https://tapstrgacctgen2.dfs.core.windows.net"
+		},
+		"LS_Strg_acct_gen_2_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"LS_Strg_acct_gen_2_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		},
+		"expDataset_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"expDataset_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"expDataset_properties_typeProperties_servicePrincipalId": {
+			"value": "2f17fde5-bd89-4a4e-a718-1210e0db3361"
+		},
+		"expLinkedService1_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"expLinkedService1_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"expLinkedService1_properties_typeProperties_servicePrincipalId": {
+			"value": "2f17fde5-bd89-4a4e-a718-1210e0db3361"
+		},
+		"pinkuLinkedService_properties_typeProperties_url": {
+			"value": "https://tapasstoragegen2.dfs.core.windows.net"
+		},
+		"pinkuLinkedService_properties_typeProperties_tenant": {
+			"value": "796d30a5-7801-472e-ba43-d09354b12297"
+		},
+		"pinkuLinkedService_properties_typeProperties_servicePrincipalId": {
+			"value": "595032c4-b237-4764-822d-89e1eeb6aab5"
+		}
+	}
+}
